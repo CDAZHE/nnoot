@@ -4,7 +4,7 @@
     },
     "AddNoteActiveEdit": false,
     "AlwaysShowComment": false,
-    "AutoAddtoOutline": false,
+    "AutoAddtoOutline": true,
     "AutoCopyFileToLib": false,
     "CommentFontSize": 16,
     "DefaultPageLayout": 1,
@@ -42,6 +42,9 @@
         "521": "F8",
         "532": "Ctrl+Alt+Shift+H",
         "571": "Ctrl+Alt+Shift+Q"
+    },
+    "LineCurve": {
+        "Color": "fff89e02"
     },
     "MindNodeInsertFlags": 1,
     "Rectangle": {
