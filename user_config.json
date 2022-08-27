@@ -46,7 +46,7 @@
     "LineCurve": {
         "Color": "fff89e02"
     },
-    "MindNodeInsertFlags": 1,
+    "MindNodeInsertFlags": 2,
     "Rectangle": {
         "Width": 7
     },
@@ -54,5 +54,5 @@
     "ShowMode": 2,
     "TextFrameFontSize": 5,
     "UseMouseClick": true,
-    "VerticalPattern": true
+    "VerticalPattern": false
 }
