@@ -51,7 +51,7 @@
         "Width": 7
     },
     "ShowCommentIcon": true,
-    "ShowMode": 2,
+    "ShowMode": 3,
     "TextFrameFontSize": 5,
     "UseMouseClick": true,
     "VerticalPattern": false
