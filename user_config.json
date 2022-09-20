@@ -1,6 +1,6 @@
 {
     "": {
-        "Width": 1
+        "Width": 2
     },
     "AddNoteActiveEdit": false,
     "AlwaysShowComment": false,
@@ -51,7 +51,7 @@
         "Width": 7
     },
     "ShowCommentIcon": true,
-    "ShowMode": 3,
+    "ShowMode": 2,
     "TextFrameFontSize": 5,
     "UseMouseClick": true,
     "VerticalPattern": false
