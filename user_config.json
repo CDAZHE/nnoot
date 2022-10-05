@@ -22,7 +22,7 @@
         "171": "Ctrl+Shift+C",
         "222": "R",
         "238": "H",
-        "239": "F2",
+        "239": "Z",
         "252": "Ctrl+,",
         "274": "Ctrl+T",
         "276": "Ctrl+Alt+Up",
@@ -52,7 +52,7 @@
     },
     "ShowCommentIcon": true,
     "ShowMode": 2,
-    "TextFrameFontSize": 18,
+    "TextFrameFontSize": 8,
     "UseMouseClick": true,
     "VerticalPattern": false
 }
