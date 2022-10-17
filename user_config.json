@@ -4,9 +4,10 @@
     },
     "AddNoteActiveEdit": false,
     "AlwaysShowComment": false,
-    "AutoAddtoOutline": true,
+    "AutoAddtoOutline": false,
     "AutoCopyFileToLib": false,
     "CommentFontSize": 16,
+    "CustomColors": "#feeb73 #a0ec6e #0055ff #ff8280 #f89e02 #60bb46 #b9ddfd #fe01d4 #d49047 #01ff01 #01fffd #000000",
     "DefaultPageLayout": 1,
     "EpubFont": "微软雅黑",
     "HotKeys": {
@@ -20,6 +21,7 @@
         "149": "Ctrl+B",
         "151": "F9",
         "171": "Ctrl+Shift+C",
+        "221": "L",
         "222": "R",
         "238": "H",
         "239": "Z",
@@ -48,11 +50,15 @@
     },
     "MindNodeInsertFlags": 2,
     "Rectangle": {
+        "Color": "ff0055ff",
         "Width": 7
     },
     "ShowCommentIcon": true,
-    "ShowMode": 2,
-    "TextFrameFontSize": 8,
+    "ShowMode": 3,
+    "TextFrame": {
+        "Color": "ff0055ff"
+    },
+    "TextFrameFontSize": 5,
     "UseMouseClick": true,
     "VerticalPattern": false
 }
