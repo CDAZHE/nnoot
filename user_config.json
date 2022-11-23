@@ -4,7 +4,7 @@
     },
     "AddNoteActiveEdit": false,
     "AlwaysShowComment": false,
-    "AutoAddtoOutline": false,
+    "AutoAddtoOutline": true,
     "AutoCopyFileToLib": false,
     "CommentFontSize": 16,
     "CustomColors": "#feeb73 #a0ec6e #0055ff #ff8280 #f89e02 #60bb46 #b9ddfd #fe01d4 #d49047 #01ff01 #01fffd #000000",
@@ -50,7 +50,7 @@
     },
     "MindNodeInsertFlags": 2,
     "Rectangle": {
-        "Color": "ff0055ff",
+        "Color": "ff60bb46",
         "Width": 7
     },
     "ShowCommentIcon": true,
