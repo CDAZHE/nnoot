@@ -72,7 +72,7 @@
     "TextFrame": {
         "Color": "ff0055ff"
     },
-    "TextFrameFontSize": 3,
+    "TextFrameFontSize": 15,
     "UseMouseClick": true,
     "VerticalPattern": false,
     "WholeWord": false
