@@ -10,11 +10,13 @@
     "Circle": {
         "Width": 5
     },
-    "CommentFont": "Microsoft YaHei UI Light",
-    "CommentFontSize": 10,
+    "CommentFont": "微软雅黑",
+    "CommentFontSize": 12,
     "CustomColors": "#feeb73 #a0ec6e #0055ff #ff8280 #f89e02 #60bb46 #59c6ff #fe01d4 #d49047 #01ff01 #01fffd #000000",
     "DefaultPageLayout": 1,
     "EpubFont": "微软雅黑",
+    "ExtractFont": "微软雅黑",
+    "ExtractFontSize": 12,
     "HotKeys": {
         "101": "J",
         "112": "Ctrl+C",
@@ -72,7 +74,8 @@
     "TextFrame": {
         "Color": "ff0055ff"
     },
-    "TextFrameFontSize": 3,
+    "TextFrameFontSize": 5,
+    "TitleFont": "微软雅黑",
     "UseMouseClick": true,
     "VerticalPattern": false,
     "WholeWord": false
